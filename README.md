@@ -40,8 +40,8 @@ Welcome to my personal developer portfolio website! I am a Software Engineering 
 
 ## 📬 Contact & Connect
 
-- **Email:** [areeba.dev.se@gmail.com](mailto:areeba.dev.se@gmail.com)
-- **GitHub:** [@areeba-dev](https://github.com/areeba-dev)
+- **Email:** [areebayousaf87@gmail.com](mailto:areebayousaf87gmail.com)
+- **GitHub:** [@Areeba-Yousaf00](https://github.com/Areeba-Yousaf00)
 
 ---
 *Created by Areeba — COMSATS University Lahore*
